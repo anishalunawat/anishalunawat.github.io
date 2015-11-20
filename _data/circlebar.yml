@@ -1,0 +1,23 @@
+- name: About me
+  link: /
+  icon: about.png
+
+- name: Projects
+  link: /projects
+  icon: projects.png
+
+- name: GitHub
+  link: https://github.com/anishalunawat
+  icon: repo.png
+
+- name: LinkedIn
+  link: https://linkedin.com/in/anishalunawat
+  icon: jobs.png
+
+- name: CV
+  link: https://s3.amazonaws.com/accredible-profile-uploads/udacity/resumes/1448027961414
+  icon: cv.png
+
+- name: Mail
+  link: mailto:anisha.lunawat@iiitb.org
+  icon: mail.png

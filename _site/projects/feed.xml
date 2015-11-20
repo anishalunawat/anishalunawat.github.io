@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anisha Lunawat</title>
+    <description>Student - IIITB</description>
+    <link>anishalunawat.github.io/</link>
+    <atom:link href="anishalunawat.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 20 Nov 2015 22:58:34 +0530</pubDate>
+    <lastBuildDate>Fri, 20 Nov 2015 22:58:34 +0530</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Data Usage Analyser (Extension of Recharge Plan Recommender)</title>
+        <description>&lt;p&gt;The project aim is to acquire user’s internet usage records, analyze usage pattern and segregate into data used on Wi-Fi and Cellular connection. Analyzing the data in various geographic locations with different kind of users Responsibility: Android App Development&lt;/p&gt;
+</description>
+        <repository>
+          <name>github.com</name>
+          <link>https://github.com/xerosanyam/DataUsage</link>
+        </repository>
+        <libraries>
+          
+            <library>
+              <name>Android Framework</name>
+              <link>https://developer.android.com</link>
+            </library>
+          
+        </libraries>
+        <languages>
+          
+          <language>Java</language>
+          
+        </languages>
+        <pubDate>Mon, 01 Jun 2015 00:00:00 +0530</pubDate>
+        <link>anishalunawat.github.io/projects/project5</link>
+        <guid isPermaLink="true">anishalunawat.github.io/projects/project5</guid>
+        
+        
+          <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Friends Family Genealogy</title>
+        <description>&lt;p&gt;Implemented the seven handshake theory by enabling a user to create friend and family tree. Trees from various users are connected by Db4o in order to bring out relevant relationship information between any two users. Responsibility: Designed and implemented User Interface, Project Integration.&lt;/p&gt;
+</description>
+        <repository>
+          <name>github.com</name>
+          <link>/projects</link>
+        </repository>
+        <libraries>
+          
+            <library>
+              <name>db4o</name>
+              <link>http://www.db4o.com</link>
+            </library>
+          
+            <library>
+              <name>J2EE</name>
+              <link>http://www.oracle.com/technetwork/java/javaee/overview/index.html</link>
+            </library>
+          
+        </libraries>
+        <languages>
+          
+          <language>Java</language>
+          
+          <language>CSS</language>
+          
+          <language>JavaScript</language>
+          
+          <language>HTML</language>
+          
+        </languages>
+        <pubDate>Mon, 01 Jun 2015 00:00:00 +0530</pubDate>
+        <link>anishalunawat.github.io/projects/project4</link>
+        <guid isPermaLink="true">anishalunawat.github.io/projects/project4</guid>
+        
+        
+          <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Indoor Navigation System</title>
+        <description>&lt;p&gt;Built an Android Application to navigate inside a building. Key features: Audio and visual directions, tracking current location, inter-floor navigation, Wi-Fi-fingerprinting, GPS integration, and application interaction with APIs. Responsibility: Co-Developing the Android Application and Wi-Fi-fingerprinting.&lt;/p&gt;
+</description>
+        <repository>
+          <name>github.com</name>
+          <link>/projects</link>
+        </repository>
+        <libraries>
+          
+            <library>
+              <name>Android Framework</name>
+              <link>https://developer.android.com</link>
+            </library>
+          
+        </libraries>
+        <languages>
+          
+          <language>Java</language>
+          
+        </languages>
+        <pubDate>Mon, 01 Jun 2015 00:00:00 +0530</pubDate>
+        <link>anishalunawat.github.io/projects/project3</link>
+        <guid isPermaLink="true">anishalunawat.github.io/projects/project3</guid>
+        
+        
+          <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Recharge Plan Recommender</title>
+        <description>&lt;p&gt;A self-motivated idea to bridge the gap between Telecom operator and android phone pre-paid user by suggesting the user appropriate plan based on his call history and current available plans. Built an Android Application with backend on Amazon Web Services using nodejs. Responsibility: Developed Android Application, Creation and handling of Instance, MMS Service.&lt;/p&gt;
+</description>
+        <repository>
+          <name>github.com</name>
+          <link>/projects</link>
+        </repository>
+        <libraries>
+          
+            <library>
+              <name>Android Framework</name>
+              <link>https://developer.android.com</link>
+            </library>
+          
+            <library>
+              <name>AWS</name>
+              <link>https://aws.amazon.com/</link>
+            </library>
+          
+            <library>
+              <name>Postman</name>
+              <link>https://www.getpostman.com/</link>
+            </library>
+          
+            <library>
+              <name>mongoDB</name>
+              <link>https://www.mongodb.org/</link>
+            </library>
+          
+            <library>
+              <name>MMS</name>
+              <link>https://www.mongodb.com/cloud/</link>
+            </library>
+          
+        </libraries>
+        <languages>
+          
+          <language>Java</language>
+          
+          <language>JavaScript</language>
+          
+        </languages>
+        <pubDate>Mon, 01 Jun 2015 00:00:00 +0530</pubDate>
+        <link>anishalunawat.github.io/projects/project2</link>
+        <guid isPermaLink="true">anishalunawat.github.io/projects/project2</guid>
+        
+        
+          <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Mini Wiki Engine</title>
+        <description>&lt;p&gt;A query based search engine for Wikipedia which will be further extend for tag based search in documents. Responsibility: Devised an algorithm for quick search and retrieval of Wiki Pages&lt;/p&gt;
+</description>
+        <repository>
+          <name>github.com</name>
+          <link>/projects</link>
+        </repository>
+        <libraries>
+          
+            <library>
+              <name>Bootstrap</name>
+              <link>http://getbootstrap.com/</link>
+            </library>
+          
+        </libraries>
+        <languages>
+          
+          <language>Java</language>
+          
+        </languages>
+        <pubDate>Mon, 01 Jun 2015 00:00:00 +0530</pubDate>
+        <link>anishalunawat.github.io/projects/project1</link>
+        <guid isPermaLink="true">anishalunawat.github.io/projects/project1</guid>
+        
+        
+          <category>project</category>
+        
+      </item>
+    
+  </channel>
+</rss>
